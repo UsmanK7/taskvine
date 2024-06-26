@@ -1,4 +1,4 @@
-package com.appventure.taskvine
+package com.taskvine.taskvine
 
 import io.flutter.embedding.android.FlutterActivity
 

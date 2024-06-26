@@ -8,7 +8,7 @@
 PRODUCT_NAME = taskvine
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.appventure.taskvine
+PRODUCT_BUNDLE_IDENTIFIER = com.taskvine.taskvine
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2024 com.appventure. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2024 com.taskvine. All rights reserved.

@@ -42,17 +42,17 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyDqi9aNuhAE9ppshBtiYI1htbF-nk3FWrU',
-    appId: '1:522159891901:web:92e0f9943e6abce1dc1ed4',
+    appId: '1:522159891901:web:363f0c946270adc0dc1ed4',
     messagingSenderId: '522159891901',
     projectId: 'taskvine',
     authDomain: 'taskvine.firebaseapp.com',
     storageBucket: 'taskvine.appspot.com',
-    measurementId: 'G-B3L644H7ND',
+    measurementId: 'G-XEBBPS9LDJ',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyBLw1DoaCzlmGrNi-CCOIs9415zhkxCeyQ',
-    appId: '1:522159891901:android:39a7a7f68f946d19dc1ed4',
+    appId: '1:522159891901:android:8e8082d0745bd7aedc1ed4',
     messagingSenderId: '522159891901',
     projectId: 'taskvine',
     storageBucket: 'taskvine.appspot.com',
@@ -60,29 +60,29 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyDRplr6uMY4SAYsKW5XacLANdiJOYAqSVo',
-    appId: '1:522159891901:ios:ee2c395e5c8b8607dc1ed4',
+    appId: '1:522159891901:ios:e444f7e95360a3ebdc1ed4',
     messagingSenderId: '522159891901',
     projectId: 'taskvine',
     storageBucket: 'taskvine.appspot.com',
-    iosBundleId: 'com.appventure.taskvine',
+    iosBundleId: 'com.taskvine.taskvine',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyDRplr6uMY4SAYsKW5XacLANdiJOYAqSVo',
-    appId: '1:522159891901:ios:ee2c395e5c8b8607dc1ed4',
+    appId: '1:522159891901:ios:e444f7e95360a3ebdc1ed4',
     messagingSenderId: '522159891901',
     projectId: 'taskvine',
     storageBucket: 'taskvine.appspot.com',
-    iosBundleId: 'com.appventure.taskvine',
+    iosBundleId: 'com.taskvine.taskvine',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: 'AIzaSyDqi9aNuhAE9ppshBtiYI1htbF-nk3FWrU',
-    appId: '1:522159891901:web:e4895e5633dd1bebdc1ed4',
+    appId: '1:522159891901:web:a0106e0192960962dc1ed4',
     messagingSenderId: '522159891901',
     projectId: 'taskvine',
     authDomain: 'taskvine.firebaseapp.com',
     storageBucket: 'taskvine.appspot.com',
-    measurementId: 'G-8201Y7TFXH',
+    measurementId: 'G-WM1SWRBSMS',
   );
 }

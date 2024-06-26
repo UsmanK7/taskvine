@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:522159891901:android:39a7a7f68f946d19dc1ed4",
+        "mobilesdk_app_id": "1:522159891901:android:8e8082d0745bd7aedc1ed4",
         "android_client_info": {
-          "package_name": "com.appventure"
+          "package_name": "com.taskvine.taskvine"
         }
       },
       "oauth_client": [],
