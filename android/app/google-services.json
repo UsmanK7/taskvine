@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522159891901",
+    "project_id": "taskvine",
+    "storage_bucket": "taskvine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522159891901:android:39a7a7f68f946d19dc1ed4",
+        "android_client_info": {
+          "package_name": "com.appventure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLw1DoaCzlmGrNi-CCOIs9415zhkxCeyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
