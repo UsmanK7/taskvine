@@ -27,6 +27,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
+                      //current day
                       AppText(
                         text: "Today",
                         fontWeight: FontWeight.w600,
